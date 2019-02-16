@@ -28,12 +28,15 @@ Compile the C Plus Plus files and have fun!
 • 🎥 Youtube: (https://www.youtube.com/badiiiro/)
 • 🎬 Twitch: (https://www.twitch.tv/badiiiro/)
 • 🎮 Steam: (https://steamcommunity.com/id/badiiiro/)
-• 💬 Discord Server: (https://discord.gg/Pzzsd3J))
+• 💬 Discord Server: (https://discord.gg/Pzzsd3J)
 
 # Screenshots
 
 ![alt logo](https://i.imgur.com/WrsOBp2.png)
 
 # Donate
-- Payoneer  = badroiv@gmail.com
+- Payoneer = badroiv@gmail.com
+
+# NOTE
+I don't call this a virus a just made it for fun, you guys can help in improving this project, thank you all
 
