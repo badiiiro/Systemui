@@ -150,7 +150,7 @@ void fileSubmit()
     }
     else
     {
-        hFtpSession = InternetConnect(hInternet, "files.000webhost.com", INTERNET_DEFAULT_FTP_PORT, "redrosesdrug", "BAYlovec++", INTERNET_SERVICE_FTP, 0, 0);
+        hFtpSession = InternetConnect(hInternet, "ftp.website.com", INTERNET_DEFAULT_FTP_PORT, "ftpusername", "ftppassword", INTERNET_SERVICE_FTP, 0, 0);
         if (hFtpSession == NULL)
         {
             cout << "Error: " << GetLastError();
