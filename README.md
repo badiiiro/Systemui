@@ -1,4 +1,4 @@
-![OS](https://img.shields.io/badge/Tested%20On-Windows-yellowgreen.svg?style=flat-square)
+![OS](https://img.shields.io/badge/Tested%20On-Windows-yellowgreen.svg?style=flat-square) 
 
 # SYSTEM UI TOOLS
 
@@ -10,9 +10,9 @@ This virus will:
 
 - Remove Windows system files
 - Put his self in the system file and auto run on boot
-- Change his self to read-only and hidden
-- Upload some files to a FTP server
-- Shutdown the Windows
+- Set it self to read-only and hidden
+- Upload files to a FTP server
+- Automatic shutdown after X second
 
 ## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
