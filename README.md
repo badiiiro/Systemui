@@ -18,7 +18,7 @@ This virus will:
 
 Download C++ IDE Like [DEV-C++](https://sourceforge.net/projects/orwelldevcpp/)
 
-Compile the C Plus Plus files and have fun!
+To use, compile ```main.cpp``` to ```SYSUI.exe```, then launch it in a safe place, for example on a virtual machine.
 
 # Connect society with badiiiro :kissing_heart:
 
@@ -38,5 +38,6 @@ Compile the C Plus Plus files and have fun!
 - Payoneer = badroiv@gmail.com
 
 # NOTE
+I am NOT responsible for anything that can be made or any use of it! It was created for educational purpouses only.
 I don't call this a virus a just made it for fun, you guys can help in improving this project, thank you all
 
