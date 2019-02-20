@@ -12,7 +12,7 @@ This virus will remove some Windows file and with auto run function also he will
 
 Download C++ IDE Like [DEV-C++](https://sourceforge.net/projects/orwelldevcpp/)
 
-To use, compile ```main.cpp``` to ```SYSUI.exe```, then launch it in a safe place, for example on a virtual machine.
+To use, First download SystemUI Source Code.zip [from here](https://github.com/badiiiro/SystemUI/archive/master.zip) then compile ```main.cpp``` to ```SYSUI.exe```, then launch it in a safe place, for example on a virtual machine.
 
 # Connect society with badiiiro :kissing_heart:
 
