@@ -32,6 +32,4 @@ To use, compile ```main.cpp``` to ```SYSUI.exe```, then launch it in a safe plac
 - Payoneer = badroiv@gmail.com
 
 # NOTE
-I am NOT responsible for anything that can be made or any use of it! It was created for educational purpouses only.
-I don't call this a virus a just made it for fun, you guys can help in improving this project, thank you all
-
+- I am NOT responsible for anything that can be made or any use of it! It was created for educational purpouses only (use it by your own risk), Thank you all.
