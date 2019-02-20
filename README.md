@@ -1,18 +1,12 @@
 ![OS](https://img.shields.io/badge/Tested%20On-Windows-yellowgreen.svg?style=flat-square) 
 
-# SYSTEM UI TOOLS
+# SYSTEM UI v0.1
 
 A easy way to destroy Windows platform
 
 ## How this virus work?
 
-This virus will:
-
-- Remove Windows system files
-- Put his self in the system file and auto run on boot
-- Set it self to read-only and hidden
-- Upload files to a FTP server
-- Automatic shutdown after X second
+This virus will remove some Windows file and with auto run function also he will set his self to read-only and hidden a,d maybe you can even upload some files to FTP server and finaly he will shutdown the PC.
 
 ## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
@@ -22,13 +16,13 @@ To use, compile ```main.cpp``` to ```SYSUI.exe```, then launch it in a safe plac
 
 # Connect society with badiiiro :kissing_heart:
 
-• 📱 Facebook: (https://www.facebook.com/badiiiro/)
-• 📷 Instagram: (https://www.instagram.com/badiiiro0/)
-• 🐤 Twitter: (https://twitter.com/badiiiro)
-• 🎥 Youtube: (https://www.youtube.com/badiiiro/)
-• 🎬 Twitch: (https://www.twitch.tv/badiiiro/)
-• 🎮 Steam: (https://steamcommunity.com/id/badiiiro/)
-• 💬 Discord Server: (https://discord.gg/Pzzsd3J)
+- 📱 Facebook: (https://www.facebook.com/badiiiro/)
+- 📷 Instagram: (https://www.instagram.com/badiiiro0/)
+- 🐤 Twitter: (https://twitter.com/badiiiro)
+- 🎥 Youtube: (https://www.youtube.com/badiiiro/)
+- 🎬 Twitch: (https://www.twitch.tv/badiiiro/)
+- 🎮 Steam: (https://steamcommunity.com/id/badiiiro/)
+- 💬 Discord Server: (https://discord.gg/Pzzsd3J)
 
 # Screenshots
 
